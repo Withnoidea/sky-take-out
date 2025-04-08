@@ -7,8 +7,11 @@ $$
 $$
 
 ## 学习记录
+前端登录地址：
+http://localhost/#/login
 
-
+外卖项目接口文档
+http://localhost:8080/doc.html
 
 - 基础数据模块
   1. 
